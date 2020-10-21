@@ -17,3 +17,4 @@ and Travis CI
 ## Changes
 
 - Added escape characters to Docker password
+- Another change to environment variables
