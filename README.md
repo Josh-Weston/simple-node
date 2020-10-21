@@ -13,3 +13,7 @@ and Travis CI
 
 ## Container teardown
 * Remove container: `docker kill {container_id}` where `container_id` can be retrieved by running `docker ps` and found under the column `CONTAINER ID`
+
+## Changes
+
+- Added escape characters to Docker password
